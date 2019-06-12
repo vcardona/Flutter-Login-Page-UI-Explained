@@ -64,7 +64,7 @@ class _MyAppState extends State<MyApp> {
             crossAxisAlignment: CrossAxisAlignment.end,
             children: <Widget>[
               Padding(
-                padding: EdgeInsets.only(top: 20.0),
+                padding: EdgeInsets.only(top: 50.0),
                 child: Image.asset("assets/image_01.png"),
               ),
               Expanded(
