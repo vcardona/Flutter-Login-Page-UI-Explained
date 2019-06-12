@@ -1,5 +1,11 @@
 # Flutter-Login-Page-UI-Explained
 
+## [Español](#espanol)
+## [English](#ingles)
+
+<a name="espanol"></a>
+## 1. Español
+
 Este pequeño tutorial es una explicación del video del desarrollador llamado Abdi Hamid, todo el código es propiedad del desarrollador, lo único que estoy haciendo es explicar algunas de las partes para que cualquier persona que esté iniciando en Flutter lo pueda entender. Ante todo gracias a [Abdi Hamid](https://github.com/devefy) por compartir el video y el código en su repositorio. 
 
 El resultado final con este ejemplo es el siguiente:
@@ -228,3 +234,9 @@ Podemos ver como se van creando diferentes clases que contienen Widgets que en e
 
 **Código** [Abdi Hamid](https://github.com/devefy)
 **Diseño** [Nithinraj Shetty](https://www.uplabs.com/posts/login-99a29cbb-2952-4550-a977-5081bada091d)
+
+# Flutter-Login-Page-UI-Explained
+
+
+<a name="ingles"></a>
+## 1. English
