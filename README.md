@@ -224,4 +224,7 @@ class CustomIcons {
 ```
 Podemos ver como se van creando diferentes clases que contienen Widgets que en este ejemplo son repetitivos, como es el caso de los botones del login en la parte inferior, es común cuando encontramos en nuestro diseño un Widget que se va a utilizar varias veces, separarlo en una nueva clase y luego simplemente lo llamamos, entregando los valores necesarios, así evitamos saturar nuestro código principal, generar un orden de trabajo, ahorramos tiempo y facilitamos el desarrollo en general.
  
+## Creditos
 
+**Código** [Abdi Hamid](https://github.com/devefy)
+**Diseño** [Nithinraj Shetty](https://www.uplabs.com/posts/login-99a29cbb-2952-4550-a977-5081bada091d)
