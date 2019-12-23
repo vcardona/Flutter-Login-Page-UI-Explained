@@ -65,12 +65,18 @@ class _MyAppState extends State<MyApp> {
             children: <Widget>[
               Padding(
                 padding: EdgeInsets.only(top: 50.0),
-                child: Image.asset("assets/image_01.png"),
+                // child: Image.asset("assets/image_01.png"),
+              ),
+              Expanded(
+                child: Image.asset('assets/image_01.png'),
               ),
               Expanded(
                 child: Container(),
               ),
-              Image.asset("assets/image_02.png")
+              Expanded(
+                child: Image.asset('assets/image_02.png'),
+              ),
+              // Image.asset("assets/image_02.png")
             ],
           ),
           SingleChildScrollView(
